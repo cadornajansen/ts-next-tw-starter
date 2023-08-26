@@ -11,6 +11,7 @@ This is a starter template for Next.js 13 app with Typescript, and Tailwind CSS.
 - 🔍 SEO Metadata
 - ⚛️ React Query Setup
 - 🧩 Pre-built Components
+- ✨ API Routes Example
 - 📖 Clean Modern Codebase
 - ⚡️ Monorepo with Turborepo 
 - 💻 Suspense Skeleton Loading (coming soon)
