@@ -49,7 +49,7 @@ export default function Hero() {
             className="overflow-hidden relative flex"
             loop={0}
             gradient={true}
-            gradientColor={[8, 8, 14]}
+            gradientColor={[15, 16, 20]}
           >
             <div className="flex gap-4 sm:gap-9 overflow-hidden justify-center items-center">
               {icons.map((icon, index) => (
