@@ -1,4 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next Starter
+This is a starter template for Next.js 13 app with Typescript, and Tailwind CSS. It includes the all new app folder, layout components, React server components and more!
+
+## Features
+
+- 🚀 Next.js 13 with async components
+- 💻 Fully typed with Typescript.
+- 🎨 TailwindCSS 
+- 🔥 Framer Motion Animations
+- 💚 Eslint, Prettier & PostCSS
+- 🔍 SEO Metadata
+- ⚛️ React Query Setup
+- 🧩 Pre-built Components
+- 📖 Clean Modern Codebase
+- ⚡️ Monorepo with Turborepo 
+- 💻 Suspense Skeleton Loading (coming soon)
+- 🧪 Unit Testing Built-in Setups (coming soon)
+- 📈 Auto Sitemap Generation (coming soon)
+- 🔍 Dynamic Metadata, JSON-LD and Open Graph (coming soon)
+
+### Deployment
+
+This is a simple Next.js project. Deployment is the same as any other Next.js project. You can deploy it to Vercel, Netlify, or any other hosting provider.
+
+### Contributing
+
+Contributions are welcome. Please open an issue or a PR.
+
+### License
+
+MIT
 
 ## Getting Started
 
@@ -14,9 +44,15 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing the template by modifying `app/`. 
+
+`API routes` with [Route handlers](https://nextjs.org/docs/app/building-your-application/routing/router-handlers) can be accessed on [http://localhost:3000/api/jokes](http://localhost:3000/api/jokes). This endpoint can be edited in `app/api/jokes/route.ts`.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+## Recomendation for better development
+- [Install Tailwind CSS intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [Enable CSS module auto-completion](https://github.com/mrmckeb/typescript-plugin-css-modules#visual-studio-code)
 
 ## Learn More
 
